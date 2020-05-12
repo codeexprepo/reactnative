@@ -1,0 +1,2 @@
+Deleting drawable in res: " del ./android/app/src/main/res/drawable-*",
+Deleting raw in res: "del ./android/app/src/main/res/raw",
