@@ -64,13 +64,6 @@ Run the installer
 Please download and install git client from `https://git-scm.com/downloads`. <br>
 The git client is version control and code repository tool.
 
-## 1.2 IOS
-
-# 2. Downloading this repository
-
-Open windows command prompt or mac terminal and run this command: `git clone https://bitbucket.org/lminglia/brainhack-react-native.git`
-
-
 
 # 3. Running development
 
