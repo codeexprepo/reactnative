@@ -65,9 +65,9 @@ Please download and install git client from `https://git-scm.com/downloads`. <br
 The git client is version control and code repository tool.
 
 
-# 3. Running development
+# 2. Running development
 
-## 3.x Resolving issues with NDK 
+## 2.1 Resolving issues with NDK 
 If you are running the react-native for the first time, you may be this NDK version 20.0.5594570 not found error when you run `npm run android`. 
 
 
